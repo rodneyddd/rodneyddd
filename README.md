@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-Languages I'm familiar with:
+Languages I've worked with:
 
 
 
