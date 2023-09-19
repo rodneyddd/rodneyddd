@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 
 
-![image](https://github.com/rodneyddd/rodneyddd/assets/92963522/079756d1-82fd-4ce0-9ced-24ef596194a5)
-
 
 
 
