@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with front end frameworks, and also AI
 - 💬 Ask me about web development, if you need any help I'd be happy to help!
 - 📫 You can reach out to me on my LinkedIn
+-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rodneydaniel/)
 
 
 ![image](https://github.com/rodneyddd/rodneyddd/assets/92963522/09c08e7b-40d1-4a3b-9a83-98ba7c238642)
